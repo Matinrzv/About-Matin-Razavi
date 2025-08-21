@@ -23,3 +23,6 @@
 ## 📬 Connect with Me
 - ✉️ Email: razavimatin80@gmail.com  
 - 🌐 GitHub: [Matinrzv](https://github.com/Matinrzv)  
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Machine Learning"/>
+</p>
