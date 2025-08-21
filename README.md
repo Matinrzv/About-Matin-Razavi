@@ -1,2 +1,25 @@
 # About-Matin-Razavi
-👋 Hi, I’m Matin Razavi — a passionate computer science student and Python developer from Iran. I’m deeply interested in Artificial Intelligence, Computer Vision, and Machine Learning, and I love turning ideas into real-world projects.
+# 👋 Hi, I'm Matin!  
+
+🐍 Python Enthusiast | 🤖 AI & Computer Vision Fan | 💡 Building smart solutions, one line of code at a time  
+
+---
+
+## 🌟 About Me
+- 🔭 Currently working on AI-based projects (License Plate Recognition, Smart Assistant, Gesture Recognition)  
+- 🌱 Always learning more about **Python**, **Machine Learning**, and **Computer Vision**  
+- ⚡ Passionate about solving real-world problems with code  
+- 🎯 Goal: To grow as a developer and create impactful projects  
+
+---
+
+## 🚀 Tech Stack
+- **Languages**: Python, JavaScript  
+- **Libraries & Tools**: OpenCV, TensorFlow, PyTorch, Selenium  
+- **Other Skills**: Networking (MikroTik), Databases, Web Development  
+
+---
+
+## 📬 Connect with Me
+- ✉️ Email: razavimatin80@gmail.com  
+- 🌐 GitHub: [Matinrzv](https://github.com/Matinrzv)  
