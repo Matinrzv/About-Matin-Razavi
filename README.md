@@ -27,5 +27,5 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Machine Learning"/>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Machine Learning"/>
+  <img src="https://media.giphy.com/media/3o6fJbnXJpN6LZwRjK/giphy.gif" width="400" alt="AI Gif"/>
 </p>
